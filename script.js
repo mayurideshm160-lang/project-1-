@@ -6,6 +6,9 @@ const backTop = document.querySelector('.back-top');
 const typingText = document.querySelector('#typingText');
 const words = ['Java Developer', 'Python Enthusiast', 'Web Developer'];
 
+
+
+// this is demo 
 window.addEventListener('load', () => {
   loader.classList.add('hide');
 });
